@@ -1,0 +1,1 @@
+# Emacs-My-Ninja-Path
