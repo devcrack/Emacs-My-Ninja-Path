@@ -1,18 +1,18 @@
 # Using LSP mode for Python Development 
 - Go to a function/method definition:
   ```lsp-find-definition```
-<br>
-Or **C-c l g g**
+  
+Or  **C-c l g g**
 
 - Find the reference to a function or method
 ```lsp-find-references```
-<br>
-Or **C-c l r**
+
+Or  **C-c l r**
 
 - Renaming Symbols(Variables)
   ```lsp-rename```
-  <br>
-  C-c l r r
+  
+  **C-c l r r**
   
 # Some solved problems
 
