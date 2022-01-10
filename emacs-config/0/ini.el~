@@ -82,9 +82,6 @@
 (set-face-attribute 'mode-line-inactive nil :family "consolas" :height 100)
 
 
-;; Doom Themes
-(use-package doom-themes)
-
 
 ;; Line Numbers in the Buffer
 ;; Turn ON line numbers in the buffers
@@ -120,8 +117,3 @@
 ;; 	 ("C-x C-f" . counsel-find-file)
 ;; 	 :map minibuffer-local-map
 ;; 	 ("C-r" . 'counsel-minibuffer-history)))
-;; Configuring for Python
-(use-package python-mode
-  :ensure nil
-  :custom
-  (python-shell-interpreter "python3"))
