@@ -32,5 +32,5 @@ Or  **C-c l r**
   For smart completion we need to set yasnippet.
   
 # Things we have to make work 
-- [ ] Documentation Hover
+- [X] Documentation Hover
 
