@@ -19,3 +19,4 @@ If you only want to replicate the currente buffer use
 - [Configure and using yasnippet](https://www.youtube.com/watch?v=W-bRZlseNm0&ab_channel=JakeB)
 - [Python configuration, we are here](https://youtu.be/jPXIP46BnNA?t=1548)
 
+# Installed packages
